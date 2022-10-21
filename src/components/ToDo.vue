@@ -12,6 +12,6 @@ const emit = defineEmits(['delete']);
 <li>
     {{item.name}}
     <button @click="context.emit("delete", "id")">X</button>
-    </li>
+    </li> 
 </template>
 

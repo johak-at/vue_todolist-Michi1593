@@ -16,3 +16,4 @@ let number_quadrat= cumputed(function(){
     <p> Quadriert: {{number_quadrat}}</p>
 </template>
 
+
